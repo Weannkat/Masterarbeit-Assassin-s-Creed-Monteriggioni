@@ -31,9 +31,9 @@ In diesem Ordner sind die mithilfe von *QGIS* enstandenen Datensätze hinterlegt
 *Isovists* kann sowohl SVGs als auch dxf-Dateien öffnen, wobei es mit letzterem hin und wieder Probleme hatte und leere Dataien im Arbeitsbereich erschienen sind (mit SVGs trat dieses Problem nicht auf). Da verschiedene Analysen vorgenommen wurden, wurden alle Rohdaten, die dafür verwendte wurden, in diesem Ordner hinterlegt. Das Kürzel AC oder real unterscheidet hierbei um welche Kastellversion es sich handelt.
 
 Zusätzliche Informationen:
-Monteriggioni_AC_SMml (= Stadtmauer mit Loch)
-Monteriggioni_AC_durchgaenge (Version mit tatsächlichen Navigationsbegebenheiten im Spiel unter Einbezug der Durchgänge und Torbögen, da auf der Spielkarte die Dächer eingezeichnet sind und nicht das Straßennetzwerk)
-Monteriggioni_AC_durchgaenge_treppen (Version, die die Treppenaufgänge als eigene Polygone beinhaltet, um einzelne Ebenen betrachten zu können)
-Monteriggioni_real2_categorized (Reales Kastell, mithilfe von Inkscape wurden die Polygongruppen "Stadtmauer", "Gebäude" und "Mauern" gruppiert, um es für den Import in Isovists vorzubereiten)
-Monteriggioni_real_vegetation (Reales Kastell unter Einbezug der Vegetation, die in QGIS anhand von Satellitenaufnahmen eingepflegt wurden)
-Monteriggioni_real_vegetation_Schranke (Reales Kastell unter Einbezug der Vegetation und der Tatsache, dass eine "Mauer" in der Realität scheinbar eine Parkplatzschranke ist, die auf den Karten als Mauer markiert wurde)
+- Monteriggioni_AC_SMml (= Stadtmauer mit Loch)
+- Monteriggioni_AC_durchgaenge (Version mit tatsächlichen Navigationsbegebenheiten im Spiel unter Einbezug der Durchgänge und Torbögen, da auf der Spielkarte die Dächer eingezeichnet sind und nicht das Straßennetzwerk)
+- Monteriggioni_AC_durchgaenge_treppen (Version, die die Treppenaufgänge als eigene Polygone beinhaltet, um einzelne Ebenen betrachten zu können)
+- Monteriggioni_real2_categorized (Reales Kastell, mithilfe von Inkscape wurden die Polygongruppen "Stadtmauer", "Gebäude" und "Mauern" gruppiert, um es für den Import in Isovists vorzubereiten)
+- Monteriggioni_real_vegetation (Reales Kastell unter Einbezug der Vegetation, die in QGIS anhand von Satellitenaufnahmen eingepflegt wurden)
+- Monteriggioni_real_vegetation_Schranke (Reales Kastell unter Einbezug der Vegetation und der Tatsache, dass eine "Mauer" in der Realität scheinbar eine Parkplatzschranke ist, die auf den Karten als Mauer markiert wurde)
