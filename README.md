@@ -18,6 +18,8 @@ In diesem Github Repositorium sind folgende Daten zu finden:
 Die Website wurde in Visual Studio Code mithilfe von Quarto erstellt. In dem Ordner "Website" finden sich alle Ordner und Quelldateien der Website, ebenso wie die HTML Dateien der einzelnen Unterseiten der Website (zu finden in dem Unterordner _site). Um die Website aufzurufen können, kann entweder der Unterordner _site heruntergeladen  und im Browser geöffnet werden, oder der gesamte Inhalt des "Website"-Ordners, um die Website über VS Code zu starten. Wenn die Website über die HTML-Dateien des "_site" Ordners heruntergeladen und betrachtet werden, ist es zudem notwendig den "Images" Ordner ebenfalls herunterzuladen, damit diese korrekt angezeigt werden. Um die Dateien nicht doppelt hochzuladen wurde darauf verzichtet den Ordner ebenfalls in "_site" einzupflegen.
 Letzteres erfordert die Installation des Quarto-Plugins in VS Code und den anschließenden Befehl "Quarto preview" im Terminal, um die Website im Localhost anzeigen zu lassen. Einen Installationsguide für Quarto finden Sie [hier](https://quarto.org/docs/get-started/).
 
+![Beispielbild-Website](WebsiteBeispielbild.png)
+
 **QGIS_Dateien**
 
 In dem Ordner QGIS_Dateien sind die QGIS-Projekte hinterlegt, die im Rahmen dieser Arbeit während des Analyseprozesses entstanden sind. Zu finden sind sowohl die Projektdateien als auch die für die Georeferenzierung entstandenen Points-Dateien und die Geopackages mit diversen Analyselayern.
