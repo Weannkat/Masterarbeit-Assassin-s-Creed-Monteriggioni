@@ -5,7 +5,6 @@ Dieses Repo beinhaltet die Dateien und Ergebnisse der räumlichen Untersuchung d
 ## Inhalte des Repositoriums
 
 In diesem Github Repositorium sind folgende Daten zu finden:
-- Masterarbeit (PDF Format)
 - Wissenschaftliches Poster (begleitend zur Masterarbeit als PNG und SVG Format)
 - Dateien der Website (begleitend zur Masterarbeit)
 - QGIS-Datensätze
