@@ -6,7 +6,7 @@ Dieses Repo beinhaltet die Dateien und Ergebnisse der räumlichen Untersuchung d
 
 In diesem Github Repositorium sind folgende Daten zu finden:
 - Masterarbeit (PDF Format)
-- Wissenschaftliches Poster (begleitend zur Masterarbeit)
+- Wissenschaftliches Poster (begleitend zur Masterarbeit als PNG und SVG Format)
 - Dateien der Website (begleitend zur Masterarbeit)
 - QGIS-Datensätze
 - Datensätze, die als Grundlage für die Analyse in *Isovists* dienten
