@@ -1,0 +1,35 @@
+---
+title: Ergebnisse der Analyse
+---
+
+Im Rahmen der Masterarbeit wurden das reale und das fiktive Kastell räumlich untersucht.
+An dieser Stelle werden einige dieser Ergebnisse präsentiert und das Vorgehen erläutert. Die Gesamtheit der Analyse ist in der Masterarbeit zu finden.
+\
+\
+Ein Vergleich der Straßennetzwerke und Sichtbarkeiten in beiden Versionen des Kastells hat gezeigt, dass das virtuelle Monteriggioni trotz der offensichtlichen Abänderungen starke Ähnlichkeiten zu seinem realen Vorbild aufweist. \
+Die Sichtbarkeitswerte in den Seitenstraßen und Gassen des fiktiven Kastelle ähneln denen der Realität. Obgleich die realen Straßen geradlinig verlaufen und die der Fiktion verwinkelt, haben die Untersuchungen der "Area" und der "Directed Visibility" ergeben, dass die Gassen beider Kastelle schwer einzusehen sind. Vor allem die Vergleiche der "Directed Visibility", deren Werte nicht von dem Maßstab der zugrundeliegenden Karte abhängig sind, ermöglichten dahingehend einen direkten Vergleich über die Häufigkeit der Sichtbarkeit einzelner Punkte innerhalb der Stadtmauern. \
+Im Allgemeinen wurde im Rahmen der Arbeit festgestellt, dass Monteriggioni in der Virtualität größtenteils authentisch umgesetzt wurde. Obwohl sich die Netzwerke der Straßen und Gebäude äußerlich markant voneinander unterscheiden, wurde die Essenz des Kastells in der Virtualität festgehalten. Gleichzeitig ist nicht abzustreiten, dass die Struktur des Kastells maßgeblich verändert wurde, um seiner fiktiven Rolle als Assassinenstützpunkt gerecht zu werden - die Bebauung wurde dichter und die Straßen schmaler, um die Navigation für den Spielercharakter zu erleichtern und ein zentrales Gebäude in Form der Villa Auditore wurde erschaffen, um dem Spieler ein narratives Zentrum zu bieten. \
+
+[Bilder der Analyseergebnisse](https://github.com/Weannkat/Masterarbeit-Assassin-s-Creed-Monteriggioni/tree/main/Analyse_Bilder){.btn .btn-outline-primary .btn role="button"}
+
+
+![Vergleich der "Directed Visibility" in beiden Kastellen. Quelle: Eigene Darstellung in *Isovists*.](/images/DV-Vergleich.png)
+
+
+
+![Vergleich der "Vista Length" in beiden Kastellen. Quelle: Eigene Darstellung in *Isovists*.](/images/VistaLength_vergleich.png)
+
+Es wurden zudem auch Pfade durch das reale und das fiktive Kastell modelliert und analysiert. Diese Analysen haben gezeigt, inwiefern sich die Sichtbarkeit im Laufe dieser festgelegten Strecke verändert, anstatt den Stadtplan als Ganzes zu betrachten. Hierfür wurde der Weg entlang der fiktiven und realen Hauptstraße miteinander verglichen, da dies die Strecke ist, die der Spieler am häufigsten zurücklegt und die durch die Existenz einer "Hauptstraße" in beiden Kastellversionen am vergleichbarsten ist.
+
+![Pfadanalyse des fiktiven Kastells vom Stadttor bis zum Eingang der Villa Auditore. Quelle: Eigene Darstellung in *Isovists*.](/images/Path%20Analysis_Tor_to_Villa.png)
+
+#### Zusätzliche Untersuchungen
+
+In der Arbeit wurden neben der Sichtbarkeit innerhalb des Kastells zudem auch die narrative Rolle und Funktion des Kastells beleuchtet. Hierfür wurde vorrangig *QGIS* verwendet, um die narrativen Informationen räumlich darzustellen. Beachtung fanden diesbezüglich besonders die Missionen, die der Spieler in Monteriggioni annimmt oder abgibt und die dahingehend sein Bewegungsmuster beeinflussen sowie relevante NPCs, die der Spieler regelmäßig aufsucht. \
+Mithilfe von Point-Layern, die als Heatmap dargestellt wurden, um die Ergebnisse eindeutig aufzuzeigen, wurden beispielsweise die Unterschiede zwischen den Bewegungsprofilen der "Freien Erkundung" und der "Hauptkampagne" deutlich gemacht.
+
+![Vergleich der Fundorte der optionalen Sammelobjekte (links) und der Queststartpunkte (rechts). Quelle: Eigene Darstellung mit *QGIS*.](/images/Monteriggioni_Collecticles_vs_Quests2.png)
+
+Ebenso wurden unter anderem die Konfliktorte innerhalb des Kastells analysiert, sowie die Aufenthaltsorte der NPCs und die Zuständigkeitsbereiche von verbündeten Fraktionen. Diese Datensätze sind in den QGIS-Projektdateien, beziehungsweise den dazugehörigen Geopackages zu finden, die im GitHub Repositorium hinterlegt sind. Diese räumlichen Informationen aus der Fiktion wurden in der Arbeit stellenweise dem realen Monteriggioni gegenübergestellt, um Parallelen und Differenzen in der räumlichen Gestaltung aufzuzeigen. \
+\
+**Die Untersuchungen haben gezeigt, dass das Entwicklerstudio *Ubisoft* bei der Gestaltung des digitalen Monteriggioni in einigen Aspekten auf das reale Vorbild zurückgegriffen hat - besonders in Bezug auf die Ästhetik und die materielle Beschaffenheit der Bauwerke - aber gleichzeitig bei der Gestaltung markante strukturelle Änderungen vorgenommen hat, um das Kastell zu einem funktionalen Teil der Spielwelt zu machen. Die Spielwelt in *Assassin's Creed* ist nicht nur eine Kulisse, sondern durch das Freerunning ein integraler Bestandteil des Gameplays und der Spielidentität.**

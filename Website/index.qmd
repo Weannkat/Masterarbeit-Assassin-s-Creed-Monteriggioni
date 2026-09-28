@@ -1,0 +1,27 @@
+---
+title: "*Assassin's Creed* als Spiegel der Realität?"
+---
+\
+Die Videospielreihe *Assassin's Creed*  gehört zum Genre der "Historical Fiction", eine Stilrichtung in der fiktive Charaktere und Handlungen mit realen historischen Ereignissen, Orten und Persönlichkeiten verknüpft werden. Die Spiele lassen den Spieler in die Rolle eines fiktionalen Assassinen schlüpfen und in verschiedenen Zeitaltern der Geschichte und Kulturen agieren. Hierfür hat das Entwicklerstudio [Ubisoft](https://www.ubisoft.com/de-de) 3D-Modelle von realen Städten erschaffen, die der Spieler frei erkunden kann und in denen die Handlung des Spiels stattfindet. Die Städte sind dabei nicht nur Kulissen, sondern werden aktiv in die Handlung und das Gameplay integriert. Als Assassine navigiert der Spieler nicht nur durch die Straßen, sondern erklimmt Häuser, Türme und Brücken, um sich gezielt fortzubewegen, zu verbergen und seine Missionen zu erfüllen.\
+\
+**Die Masterarbeit untersucht, inwiefern Städte in *Assassin's Creed II* in diesem virtuellen Kontext dargestellt und verändert wurden. Der besondere Fokus liegt dabei auf der mittelalterlichen Festungsstadt Monteriggioni.**\
+
+![Notre Dame in der Fiktion und in der Realität ©Unbekannter Reddit-Nutzer.](/images/notre-dame-structure-in-real-life-and-assassins-creed-unity-v0-s0pkh66pgo091.webp)
+
+
+#### Monteriggioni
+
+Das reale Monteriggioni befindet sich in der Toskana nahe Siena. Es liegt auf dem dortigen Berg Monte Ala und aufgrund der steinernen Befestigungsanlage, die das Kastell umgibt, bekam es den Beinamen "Krone Sienas". Es wurde im 13. Jahrhundert von der Stadt Siena errichtet, um sich vor Angriffen aus Florenz zu schützen, da beide Republiken zu diesem Zeitpunkt miteinander im Konflikt standen. Das Kastell ist heute ein beliebtes Touristenziel - unter anderem aufgrund der Darstellung in der Videospielreihe *Assassin's Creed*. Die Stadtmauer findet zudem in Dante Alighieris "Göttlicher Komodie" Erwähnung, der die Türme mit Riesen verglich. Aus diesem Grund wurde der Name des Autors in der Stadt verewigt - der zentrale Platz vor der *Chiesa di Santa Maria Assunta* trägt den Namen *Piazza Dante Alighieri*; wird aber auch *Piazza Roma* genannt.\
+Zwei Stadttore ermöglichen den Zugang in das Innere des Kastells - die *Porta Fiorentina* (auch *Porta San Giovanni*) und die *Porta Franca* (auch *Porta Romea*) -, die jeweils an einem Ende des Oval der Stadtmauer zu finden sind und nach Florenz oder Rom führen.
+
+![Luftaufnahme von Monteriggioni ©Luca Betti](/images/1-l.-betti-monterigg-aerea-orizz.jpg){fig-alt="Monteriggioni Luftaufnahme"}
+
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=11.220637857913971%2C43.38918524537207%2C11.225117146968843%2C43.390923882709146&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/43.390055/11.222878">Größere Karte anzeigen</a></small>
+
+In der Fiktion von *Assassin's Creed* fungiert Monteriggioni sowohl als Heimat des Protagonisten Ezio Auditore da Firenze als auch als Hauptquartier des italienischen Assassinenordens. Das Kastell wird als Rückzugsort und Versteck etabliert und ist gleichermaßen für den Spieler und den Charakter ein sicherer Hafen. Anders als in den anderen Städten der Spielwelt ist Monteriggioni kein Missionsgebiet für Assassinierungsmissionen. Die Aufgaben, die der Spieler dort erfüllt, treiben primär die Haupthandlung voran oder führen den Spieler in neue Spielmechaniken ein. \
+Mit Monteriggioni erschufen die Entwickler erstmals einen Ort im *Assassin's Creed*-Universum, in den ein leichtes RPG-System integriert wurde, der vom Spieler äußerlich beeinflusst und an dem er seine Erfolge und Kampagnenfortschritte begutachten kann.\
+Die Villa Auditore ist dahingehend der Mittelpunkt des virtuellen Monteriggionis, da dort nicht nur ebendiese Erfolge und Fortschritte in Form von Waffen, Rüstungen und den Portaits der eliminierten Antagonisten ausgestellt werden, sondern da der Spieler auch nur dort die visuellen Veränderungen der Stadt in Auftrag geben kann. Dem Spieler ist es in *Assassin's Creed II* möglich, das Aussehen der Stadt zu verbessern und das heruntergekommene Kastell zu renovieren. Monteriggioni ist damit der einzige Ort, der in diesem Spiel auf diese Art vom Spieler beeinflusst werden kann. 
+
+![Luftaufnahme des fiktiven Monteriggioni ©Ubisoft](/images/fictional_aerial_view.jpg){fig-alt="Virtuelles Monteriggioni Luftaufnahme"}
+

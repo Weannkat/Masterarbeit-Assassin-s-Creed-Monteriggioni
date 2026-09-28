@@ -1,0 +1,12 @@
+---
+title: "Das Innere der Villa Auditore"
+---
+\
+
+![Das Innere der Villa ©Ubisoft](/images/mathieu-granjon-villa-plate.jpg)
+
+Das Büro von Mario Auditore, in dem ein Großteil der Handlung stattfindet, trägt die offizielle Bezeichnung des "Kodex Raumes", nachdem diese Sammlung in dem Raum vorrangig ausgestellt wird. Der "Workshop" ist hingegen das Zimmer, in dem der Spieler Claudia und den Architekten antrifft. Im Zentrum ebendieses befindet sich das Architekturmodell von Monteriggioni, an dem der Spieler die Aufwertungen der Stadt in Auftrag geben kann. Es ist demnach zwar keine Werkstatt wie der Name vermuten lässt, aber der Raum, in dem die Arbeiten innerhalb der Stadt angestoßen und in Auftrag gegeben werden.\
+
+![Eingangshalle der Villa ©Ubisoft](/images/Villa_Eingangshalle.jpg){fig-alt="Eingangshalle der Villa"}
+
+Die Rüstungskammern befinden sich im Erdgeschoss, während die Galerie der Kunstgemälde sich im gesamten Obergeschoss erstreckt. Diese Anordnung unterstreicht, dass die Mechaniken und Sammlungen, die für die Kampagne relevant sind (Waffen, Rüstungen, Geld und Kodexseiten) für den Spieler leicht zugänglich situiert werden, während die optionalen Collectibles im gesamten Villa-Gelände verteilt wurden. 

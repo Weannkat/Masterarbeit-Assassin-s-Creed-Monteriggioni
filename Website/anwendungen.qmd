@@ -1,0 +1,31 @@
+---
+title: Verwendete Programme
+---
+
+In der Masterarbeit wurden vorrangig zwei Anwendungen verwendet, um die räumlichen Analysen durchzuführen. Diese Anwendungen sind die Geoinformationssoftware [*QGIS*](https://qgis.org/) und die [*Isovists*-Anwendung](https://isovists.org/), eine Plattform für fortgeschrittene räumliche Analysen. \
+An dieser Stelle wird die Arbeit mit diesen Programmen beleuchtet, sowie die Herausforderungen, die mit ihnen im Kontext der Arbeit einhergegangen sind.
+
+
+#### QGIS
+
+Bei *QGIS* handelt es sich um eine Open-Source Geoinformationssoftware, die verwendet wird, um räumliche Daten zu erfassen, bearbeiten, auszuwerten und darzustellen. Mithilfe von Layern können Vektor- und Rasterdatensätze untersucht und Geodaten verarbeitet werden. Mithilfe von diversen Plugins und Datenbanken können mit dieser Anwendung unterschiedliche räumliche Analysen durchgeführt und Karten gestaltet werden. Das Programm wird Stand September 2026 noch kontinuierlich geupdated und gepflegt.\
+In dieser Arbeit wurde *QGIS* verwendet, um die Stadtpläne des realen und fiktiven Monteriggionis digital nachzubilden, um Analysen daran vornehmen zu können. Mithilfe von Polygon-Layern wurden die Gebäude und Straßenzüge anhand der vorhandenen Karten nachgebildet. Zudem wurde *QGIS* genutzt, um zusätzliche räumliche Daten auf den Karten zu vermerken. Mithilfe von Punkt-Layern wurden im fiktiven Monteriggioni die Bewegungen des Spielers festgehalten und so analysiert, an welchen Orten der Spieler handlungsgebunden Zeit verbringt und welche Arten von Missionen an welchen Punkten im Raum ausgeführt wurden. Diese Informationen können als Grundlage dienen, um Bewegungsmuster zu erstellen oder den Raum aus der Perspektive einer Kulisse zu betrachten. Es kann analysiert werden, welche Raum-Typen für welche Aufgaben verwendet werden und inwiefern der reale Raum dahingehend angepasst wurde.\
+
+
+*QGIS* sollte zunächst dafür genutzt werden, den fiktiven Raum mit seinem realen Gegenstück zu georeferenzieren. Die markanten Unterschiede in den beiden Stadtplänen machten einen topografischen Vergleich allerdings unmöglich, da auch die umgebende Festungsmauer keinen definitiven geografischen Marker darstellte. Die Unterschiede in der Mauerform, der Anzahl der Wachtürme und Stadttore sowie die innere Bebauung machten eine Georefenzierung unmöglich, weswegen für die räumliche Analyse letztlich *Isovists* herangezogen wurde. 
+
+![QGIS-Logo © QGIS](/images/qgis-logo.png){fig-align="left" width="300"}
+
+
+#### Isovists
+
+Mit *Isovists* wurde nach den fehlgeschlagenen Versuchen der Georeferenzierung eine andere Herangehensweise an die Raumanalyse gestartet. Das Programm ist in der Lage, die Sichtbarkeitsverhältnisse innerhalb eines Grundrisses darzustellen. Bevorzugt wird *Isovists* dafür verwendet, die Sichtbarkeiten in Gebäuden zu betrachten, aber die Analysemöglichkeiten lassen sich größtenteils ebenfalls auf Stadtpläne übertragen, wie in dieser Arbeit demonstriert wurde.\
+Die Applikation wurde von [Sam McElhinney](https://www.uca.ac.uk/about-us/our-staff/sam-mcelhinney/) entwickelt und basiert auf [Michael Benedikts](https://www.wikidata.org/wiki/Q6828564) Konzepten der Isovisten, einer Raumeinheit, die als das Raumvolumen definiert ist, das von Punkt 'X' aus sichtbar ist. Die Form und Größe der Isovisten variieren und werden neben anderen Informationen von der Applikation ausgelesen. Sie ermöglicht zudem die Untersuchung mehrerer gruppierter Isovisten gleichzeitig, um größere Flächen zu analysieren (sogenannte Isovist-Fields). Die *Isovists*-Anwendung baut auf eine größtenteils intuitive Herangehensweise in Bezug auf die Benutzung.  
+
+![Beispiel eines 'Isovisten' (hellblau). Quelle: Eigene Darstellung in *Isovists*](/images/Isovist.png){fig-align="center" width="500"}
+
+Da das Programm auf die Arbeit mit Häusergrundrissen ausgelegt ist, sind topografische Elevationen bei den Analysen nicht einbeziehbar. Zwar sieht das Programm Möglichkeiten vor, um 3D-Modelle darin hochzuladen und zu analysieren, aber bei zweidimensionalen Grundrissen ist es nicht möglich, einzelnen Bereichen verschiedene Ebenen zuzuschreiben. \
+Die größte Herausforderung des Programmes war allerdings technischer Natur. Da das Programm seit Anfang 2024 keine Updates, Bugfixes oder Neuerungen erhalten hat, war die Analysearbeit von einigen technischen Hindernissen durchzogen. Von Programmabstürzen und nicht-ladenden Dateien bis hin zu der Notwendigkeit nach jedem Programmstart den Vollbildmodus an- und ausschalten zu müssen, um den Cursor verwenden zu können. Auch das programmeigene Speicherformat '.isovists' ist fehlerhaft und kann von der Applikation anschließend nicht geöffnet werden, weswegen es notwendig war, die Analysen jedes Mal aufs Neue auszuführen.\
+*Isovists* war demnach zwar eine hilfreiche Anwendung, um die Sichtbarkeit im Inneren des Kastells zu analysieren, kann aber aufgrund der technischen Probleme, die durch die fehlende Aktualisierung damit einhergehen, nicht empfohlen werden.
+
+![Isovists-Logo © Isovists](/images/icon_main_150.webp){fig-align="left"}

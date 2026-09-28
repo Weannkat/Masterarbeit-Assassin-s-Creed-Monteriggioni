@@ -1,0 +1,16 @@
+---
+title: "Über die Arbeit"
+---
+\
+\
+Diese Website begleitet die Masterarbeit von Ann-Kathrin Susanne Weber mit dem Titel "*Assassin's Creed*' als Spiegel der Realität?". Sie beschäftigt sich mit der Frage, inwiefern reale Städte im virtuellen Videospielkontext dargestellt und verändert werden. Dabei wurde in der Arbeit der Fokus auf das mittelalterliche Kastell Monteriggioni gelegt und die Änderungen, die daran vorgenommen wurden, um es im Kontext eines Videospiels als Handlungsraum und Spielwelt zu verwenden.
+
+Sie entstand im Rahmen des hochschulübergreifenden Masterstudiengangs "Digitale Methodik in den Geistes- und Kulturwissenschaften" an der Johannes Gutenberg-Universität Mainz und der Hochschule Mainz. 
+
+Erste Gutachterin ist [Prof. Dr. Franziska Klemstein](https://www.wikidata.org/wiki/Q121192442)\
+Zweiter Gutachter ist [Prof. Dr. phil. Kai-Christian Bruhn](https://www.wikidata.org/wiki/Q47490290)
+
+
+
+![](/images/HSM_Logo_pos.png){fig-alt="Hochschule Mainz Logo" fig-align="left" width="300"}
+![](/images/Mainz_JGU.png){fig-alt="Johannes Gutenberg-Universität Mainz Logo" fig-align="right" width="300"}

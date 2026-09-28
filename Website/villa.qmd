@@ -1,0 +1,60 @@
+---
+title: "Die Villa Auditore - Eine fiktive Villa nach realem Vorbild"
+---
+\ 
+\
+Die Integration der Villa ist mehr als nur ein dekoratives Element innerhalb der digitalen Stadt Monteriggioni. Sie agiert als narratives Werkzeug, um eine tiefere Verbindung zwischen Spieler und Protagonist aufzubauen, indem sie dem Spieler einen Einblick in sein Zuhause gewährt. Die Villa Auditore ist ein zentraler Bestandteil der Handlung und ein Ort der sozialen Interaktionen - sowohl innerhalb des Assassinenordens als auch mit den letzten Überlebenden seiner Familie. \
+Zudem kann an dem Beispiel der Villa gezeigt werden, inwiefern das Äußere eines realen Bauwerks in der digitalen Spielwelt von dem Designteam umgesetzt wurde, weswegen sie an dieser Stelle explizit aufgegriffen wird.
+
+### Die fiktive Villa Auditore
+\
+Der Spieler besucht die Villa Auditore erstmals nachdem er entsprechend der Handlung aus Florenz geflohen ist und in Monteriggioni nach Schutz und Sicherheit sucht. Bei der Ankunft in dem fiktiven Kastell wird der Spieler von einer heruntergekommenen Villa begrüßt und ihm wird eine optionale Spielmechanik vorgestellt: *Ubisoft* ermöglicht dem Spieler, die Stadt im Verlauf des Spiels zu renovieren und wiederaufzubauen - potentiell eine Würdigung von [Sir John Temple Leaders](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Leader,_John_Temple) Renovierungen des realen Gegenstücks der Villa Auditore. Wenn der Spieler das Ansehen der Stadt aufwertet und die dortigen Gebäude renovieren lässt, verändert sich das äußere Stadtbild - Flaggen des Assassinenordens werden gehisst, die Stadt ist dichter besiedelt (sowohl Bewohner in den Straßen als auch Pferde in den Stallungen nehmen zu) und das äußere Erscheinungsbild ist zunehmend gepflegter. Die Villa selbst verliert so zudem ihr überwuchertes und heruntergekommenes Äußeres. Das Innere der Villa verändert sich hingegen lediglich mit Hinblick auf die spielerischen Sammlungen, die dort ihren Platz haben. Das Engagement des Spielers und seine Erkundungs- und Sammelfreude beeinflussen demnach, inwiefern die Innenräume gefüllt und dadurch verändert werden. 
+
+
+![Frontalansicht der renovierten Villa Auditore © Ubisoft](/images/AC2_renovated_villa_auditore.webp){fig-alt="Villa Auditore" fig-align="left"}
+
+![Heruntergekommene Villa Auditore zum Spielbeginn © Ubisoft](/images/Villa_Auditore_heruntergekommen.webp){fig-alt="Villa Auditore heruntergekommen" fig-align="right"}
+
+Jeder Raum im Inneren der Villa Auditore wurde laut Studio Art Director [Mathieu Granjon](https://fr.linkedin.com/in/mathieugranjon?trk=people-guest_people_search-card) mit der Handlung und Erzählung im Hinterkopf entworfen. Demnach gibt es verschiedene Bereiche, die unterschiedliche Zwecke erfüllen und unterschiedlich intensiv genutzt werden. Das Büro von Mario Auditore nimmt narrativ eine tragende Rolle ein und gilt als essentieller Handlungsraum, in dem der Spieler Missionen annimmt, Geheimnisse offenlegt und Pläne schmiedet. Dort befindet sich zudem der Zugang in den Altarraum unter der Villa, aus dem der Spieler zu späterem Zeitpunkt aus der Stadt flieht und wo eine legendäre Rüstung aufbewahrt wird. Die Waffenkammern und Gemäldegalerien hingegen dienen vorrangig als Orte, an denen der Spieler seine Erfolge und seinen Fortschritt betrachten kann. Jede Sammlung befindet sich in dedizierten Zimmern der Villa oder ganzen Bereichen (z.B. in den Gärten).
+
+
+Die Villa Auditore hat innerhalb der fiktiven Geschichte und Handlung den Status einer "World Preservation Site" erlangt und die Ruine wird innerhalb des Spiels in der modernen Zeitscheibe als kulturelles Erbe und Sehenswürdigkeit gehandhabt. Innerhalb des fiktiven Monteriggioni sind im Jahr 2012 verschiedene Plaketten angebracht, die Fotomöglichkeiten mit der Villa erwähnen und die Geschichte des Ortes beschreiben. Es ist eine Würdigung und Hommage an die reale [UNESCO](https://whc.unesco.org/) und die "World Heritage Sites".
+
+![Schild vor der Villa Auditore in 2012 © Ubisoft (Screenshot von Ann-Kathrin Weber)](/images/WorldPreservationSite.png){fig-alt="Schild vor der Villa Auditore"}
+
+[Bildimpressionen der Villa](impressionen.qmd){.btn .btn-outline-primary .btn role="button"} \
+
+#### Geschehnisse in der Villa
+
+Die Villa Auditore ist in der fiktiven Handlung der Spiele *Assassin's Creed II* und *Assassin's Creed: Brotherhood* das Hauptquartier des italienischen Assassinenordens. Als Familiensitz der Auditores ist dies der Grund, weswegen der Protagonist Ezio Auditore zu Beginn der Handlung dorthin flieht. Im Verlauf der Kampagne kehrt er regelmäßig dorthin zurück. Die Gründe für diese Rückkünfte sind sowohl handlungs- als auch gameplay-technisch bedingt, da der Spieler nur in der Villa sein passives Goldeinkommen verwalten und an sich nehmen kann. \
+In der Villa erfahren Ezio und der Spieler erstmals von seiner wahren Identität und seiner Bestimmung ein Assassine zu werden und wird von seinem Onkel dahingehend im Kampf unterrichtet. Einige Schlüsselereignisse, die in der Villa Auditore stattfinden, sind die Folgenden:
+
+- Ezios Einführung in das Assassinentum und in die Vergangenheit seiner Familie
+- Aufbruch nach San Gimignano, um die Pazzi zu vernichten
+- Die Entschlüsselung des Assassinenkodex und das Lüften des Geheimnisses um das Artefakt des "Edensplitters"
+- Flucht aus Monteriggioni nach dem Angriff durch die *Templer*
+- Die Assassinen der Moderne (2012) suchen im Altarraum unter der Villa Zuflucht
+
+\
+
+### Die "reale" Villa Auditore
+
+Das reale Vorbild der fiktiven Villa Auditore ist die Villa di Maiano in Maiano, Fiesole nahe Florenz. Es handelt sich bei ihr um eine historische Villa aus dem 15. Jahrhundert. Die Villa war unter anderem im Besitz der Pazzi-Familie, bevor die *Villa Pazzi* von dem englischen Politiker [Sir John Temple Leader](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Leader,_John_Temple) am 16. Februar 1850 gekauft wurde. Die Villa und das gesamte Areal wurden von Temple Leader neben anderen historischen Gebäuden erworben und renoviert. Im Laufe der Jahrhunderte begrüßten die Villa und die umliegenden Ländereien bekannte Persönlichkeiten wie [Queen Victoria](https://www.wikidata.org/wiki/Q9439), [Leonardo da Vinci](https://www.wikidata.org/wiki/Q762) und [Michelangelo Buonarroti](https://www.wikidata.org/wiki/Q5592).\
+
+![Villa di Maiano Außenansicht ©Sailko](/images/Villa_di_maiano_01.JPG){fig-alt="Villa di Maiano"}
+
+\
+**Wo ist sie zu finden?**
+
+Koordinaten: <br/><small><a href= "https://geohack.toolforge.org/geohack.php?pagename=Villa_di_Maiano&params=43_47_35.35_N_11_18_13.22_E_type:landmark_region:*IT_scale:1000">43°47′35.35″N 11°18′13.22″E</a></small>
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=11.302002668380737%2C43.792168821629126%2C11.305543184280397%2C43.793895856313874&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/43.793032/11.303773">Größere Karte anzeigen</a></small>
+
+Studio Art Director Mathieu Granjon war die treibende Kraft hinter der äußeren Gestalt der Villa Auditore, wie er in dem Buch zum 15. Jubiläum des Spiele-Franchise *The Making of Assassin's Creed 15th Anniversary* von Alex Calvin preisgab. In seiner Kindheit verbrachte Granjon aus familiären Gründen viel Zeit in Italien und das Erscheinungsbild der Villa di Maiano, die er auf einem Schulausflug besucht hatte, hatte sich in sein Gedächtnis eingebrannt. [Mohamed Gambouz](https://sg.linkedin.com/in/mohamed-gambouz-9296825) war als Art Director für die Gestaltung von Monteriggioni in *Assassin's Creed II* verantwortlich, aber die Villa Auditore wurde Granjon übertragen. 
+
+![Die Arealansicht der Villa di Maiano weist Ähnlichkeiten zu den Ländereien um Monteriggioni auf ©Fattoria di Maiano](/images/villa-di-maiano-areal-view-2.webp){fig-alt="Arealansicht der Villa di Maiano"}
+
+\
+
+
+

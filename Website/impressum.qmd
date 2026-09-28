@@ -1,0 +1,19 @@
+---
+title: Impressum
+---
+
+Ann-Kathrin Susanne Weber \
+Masterarbeit - "Assassin's Creed" als Spiegel der Realität? \
+Mail: weannkat@students.uni-mainz.de \
+GitHub: https://github.com/Weannkat/Masterarbeit-Assassin-s-Creed-Monteriggioni \
+
+## **Disclaimer**
+
+#### 1. Haftungsbeschränkung
+Verantwortlich für diese Website ist Ann-Kathrin Weber. Die Informationen auf dieser Website wurden mit großer Sorgfalt zusammengestellt. Für die Richtigkeit und Vollständigkeit kann gleichwohl keine Gewähr übernommen werden. Aus diesem Grund ist jegliche Haftung für eventuelle Schäden im Zusammenhang mit der Nutzung des Informationsangebots ausgeschlossen. Durch die bloße Nutzung dieser Website kommt keinerlei Vertragsverhältnis zwischen Nutzer und Anbieter/Herausgeber zustande.
+
+#### 2. Hinweis zu externen Links
+Soweit von dieser Website auf andere Websites Links gelegt sind, wird darauf hingewiesen, dass keinerlei Einfluss auf die Gestaltung und die Inhalte der gelinkten Seiten besteht und sich deren Inhalt nicht zu eigen gemacht wird. Dies gilt für alle auf dieser Seite ausgebrachten, externen Links und für alle Inhalte der Seiten, zu denen Werbemittel (z.B. Banner, Textanzeigen, Videoanzeigen) führen. Für verlinkte Seiten gilt, dass rechtswidrige Inhalte zum Zeitpunkt der Verlinkung nicht erkennbar waren. Die Links werden regelmäßig auf rechtswidrige Inhalte überprüft und bei Rechtsverletzungen unverzüglich entfernt.
+
+#### 3. Hinweis zum Urheberrecht
+Siehe [Lizenz](lizenz.qmd){target="_blank"}.

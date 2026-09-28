@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Masterarbeit"
+ 
+ 
+  navbar:
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/Weannkat/Masterarbeit-Assassin-s-Creed-Monteriggioni
+        text: "GitHub"
+        target: "_blank"
+    left:
+      - text: "Villa Auditore"
+        href: villa.qmd
+      - text: "Programme"
+        href: anwendungen.qmd
+      - text: "Analysen"
+        href: analysen.qmd
+      - text: "Ergebnisse"
+        href: ergebnisse.qmd
+      - text: "About"
+        href: about.qmd
+
+
+    
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)"
+    center:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Lizenz"
+        href: lizenz.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+      - text: "Quellen"
+        href: quellen.qmd
+ 
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
+    toc-title: Inhalt
+    toc-location: left
+
